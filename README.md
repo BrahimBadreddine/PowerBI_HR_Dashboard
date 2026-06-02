@@ -1,17 +1,17 @@
-# 📊 HR Dashboard Requirements
+## 🧑‍💼 HR Dashboard Requirements
 
 ## 🖼️ Dashboard Preview
 
 ### HR Dashboard Summary
-![Sales Dashboard](images/HR_Summary_Dashboard.png)
+![HR Summary](images/HR_Summary_Dashboard.png)
 
 ### HR Dashboard Details
-![Customer Dashboard](images/HR_Details_Dashboard.png)
+![HR Details](images/HR_Details_Dashboard.png)
 
 ## 🗂️ Data Model Preview
 
 <p align="center">
-  <img src="images/HR_Data_Model.png" alt="Sales Data Model" />
+  <img src="images/HR_Data_Model.png" alt="HR Data Model" />
 </p>
 
 ## 🌐 Language / Langue  
